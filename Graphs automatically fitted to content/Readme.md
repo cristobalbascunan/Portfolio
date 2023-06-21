@@ -4,7 +4,7 @@ one for each kind of graph except the last sheet that contains the CF, M and arr
 
 
 <p align="left">
-<img src=".../docs/images/RegImg1.png" alt="Global process"\>
+<img src="https://github.com/cristobalbascunan/Portfolio/blob/866054663a01b47ccfeab185883800d9c3002df8/Graphs%20automatically%20fitted%20to%20content/RegImg1.png" alt="Global process"\>
 </p>
 
 There are some common rules that will apply in the building of the different types of graphs but with slight differences. Let's start with the first one.
