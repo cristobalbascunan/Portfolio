@@ -6,7 +6,7 @@ You can check the ETL, EDA and Machine Learning code, in order to convert the da
 
 For any question you can contact me on my LikedIn profile. https://www.linkedin.com/in/cristobal-bl/
 
-## Projects
+## Project samples
 
 **API POST, GET, DELETE connection**: this project involves connecting to OneHub through the API using OAuth2 to obtain the authentication token. The token is then incorporated into an existing process that utilizes POST requests to upload files, GET requests to check if an older file exists, and DELETE requests to remove files.
 -    *Libraries used: requests, sys, json, pandas, os, numpy, pyodbc, datetime, re.*
