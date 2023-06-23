@@ -14,10 +14,10 @@ There are some common rules that will apply in the building of the different typ
 
 ## Bar charts
 1. Load specifications of graphs from master excel.
-2. Depending on the 'current_publication' date, it will take the correct reportdate.
+2. Depending on the '...' date, it will take the correct reportdate.
 3. It will take from the database the latest report date to show the current forecasts for the latest reportdate and the historical values.
 4. If the report date is equal or higher than november, it will show the next year instead of the current one. 
-5. The values that may be duplicated in different tables will follow this priority: EuroArea historical data> EuroArea forecasts> Regional aggregates> Historical data >  Forecasts
+5. The values that may be duplicated in different tables will follow this priority: ...> ...> ...> Historical data >  Forecasts
 6. To create the plot there are some rules in order to fit the *x* and *y* axis as much as possible to be visually attractive and informative. These rules are:
 *	Get rounded limits: Convert the limits of the function rounded to the upper value (ceil or floor depending if it's positive or negative). If there are only positive or negative values the axis must start at zero.
 *	Avoid overlapping: via a multiplier that will be added to the higher limit in order to create blank space to place the legend.
