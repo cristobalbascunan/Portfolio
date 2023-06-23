@@ -2,8 +2,8 @@
 
 Here there are the code needed to run the scripts in the different processes for each week.
 
-## Generate Client Files for regions or commodities.
-This code produces different ouputs (format .txt, .xlsx or .csv) depending on the 'current publication region' and the reportdate.
+## Generate Client Files for regions.
+This code produces different ouputs (format .txt, .xlsx or .csv) depending on the what's needed in that moment.
 There is a 'master' file were all the specifications are already written and where new clients can be added. `C:\...\Excel_with_specifications.xlsx`
 The process is to read the queries in `C:\...\Queries` and then create a file.
 
